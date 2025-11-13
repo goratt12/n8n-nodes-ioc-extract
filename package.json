@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-ioc-extract",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Regex-based IOC extractor node for n8n workflows.",
     "license": "MIT",
     "homepage": "",
